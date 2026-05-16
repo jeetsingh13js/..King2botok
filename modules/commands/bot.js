@@ -81,8 +81,8 @@ async function sendReply({ api, message }) {
 
 module.exports = {
   config: {
-    name: "hott",
-    description: "Quick reply when someone says hott",
+    name: "bot",
+    description: "Quick reply when someone says bot",
     usage: "",
     credit: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
     hasPrefix: false,
